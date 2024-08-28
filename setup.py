@@ -15,12 +15,7 @@ setup(
                       'fooof==1.0.0',
                       'mock==4.0.3',
                       'munkres==1.1.4',
-                      'sip==4.19.13',
-                      'tdt==0.5.3',
-                      'tornado==6.1',
-                      'wincertstore==0.2'
-
-                      ],
+                      'tdt==0.5.3'],
 
     classifiers=[
         'Development Status :: 1 - Planning',
